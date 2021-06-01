@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(version: 2021_06_01_152330) do
     t.string "contractor"
     t.string "company"
     t.text "description"
-    t.datetime "date"
+    t.string "date"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

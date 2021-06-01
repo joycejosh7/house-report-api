@@ -5,7 +5,7 @@ class CreateServices < ActiveRecord::Migration[6.1]
       t.string :contractor
       t.string :company
       t.text :description
-      t.datetime :date
+      t.string :date
 
       t.timestamps
     end
