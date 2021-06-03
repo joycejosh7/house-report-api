@@ -1,24 +1,10 @@
-# README
+# Home Services
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The API for the one app you need to keep track of all your home improvements and maintenance.
 
-Things you may want to cover:
+# Ruby version
+ 2.6.1
 
-* Ruby version
+# Built with 
+Rails new app-name --api
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
