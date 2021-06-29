@@ -36,6 +36,7 @@ class ServicesController < ApplicationController
   # DELETE /services/1
   def destroy
     @service.destroy
+    render json: @service
   end
 
   private
